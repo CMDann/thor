@@ -4,7 +4,9 @@ This is a simple PHP application built off of Laravel 5.2 and based off the beau
 
 ## Slides
 
-Coming Soon
+https://speakerdeck.com/cmdann/introduction-to-laravel
+
+<script class="speakerdeck-embed" src="//speakerdeck.com/assets/embed.js" async="" data-id="6a7db323afec4d40adac33e7378804dc" data-ratio="1.77777777777778"></script>
 
 ## Video
 
